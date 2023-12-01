@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content=""width=device-width, initial-scale=1">
+        <title>Welcome to my Website</title>
+        
+    </head>
+     
+    <style>
+        body{
+                   background-image: url('NJ4g.gif');
+                   background-attachment: fixed;
+                   background-size: 100% 100%;
+           }
+           
+    </style>
+
+           <center> <div style="margin-top: 50px;">
+            <a style ="color:gold;padding-right: 20px;" href="Home.html">Home</a>
+            <a style="color:gold;padding-right: 20px;" href="about-me.html">About Me</a>
+            <a style ="color:gold;padding-right: 20px;" href="Projects.html">Projects</a>
+            </center>
+
+    <body style="color:whitesmoke;"
+
+    <main>
+        <center> <div style="margin-top: 50px;"></div>
+        <center > <h1 id="Home">Welcome to my Website</h1>
+
+        <div style="text-allign:center; margin-top: 50px;"> </div>
+
+        <div style="text-allign:center; margin-top: 50px;"> </div> <img src="pfp1.jpg">
+        <h2 style="font-size:30px; text-allign:center;">Hannie Marie A. Zaspa</h2>
+        <h2 style="font-size:25px; text-allign:center;">'H.M.A.Z' but you can call me 'Zas'</h2>
+        <br>
+        
+        <h2 style="font-size:25px; text-allign:center;">Contact </h2>
+        <p style="font-size:25px; text-allign:center;">For more inquries Feel free to contact me at</p>
+        <h2 style="font-size:25px; text-allign:center;">zaspahannie16@gmail.com </h2>
+        <a href="https://www.facebook.com/zaspa.hanniemarie" <img src="FB.png" </a>
+        <center> <img src= "FB.png" height="50">
+    </body>
+</html>
